@@ -1,6 +1,6 @@
 # Protótipo de Monitoramento de Vegetação Próximo a Torres de Transmissão (Circuito Simples / Circuito Duplo)
 
-Protótipo desenvolvido por Ítalo Molon (candidato a estágio em IA/Visão Computacional)
+Protótipo desenvolvido por Ítalo Molon (Estudante do 3º Semestre do Curso de Inteligência Artificial)
 
 ## O que faz
 - Detecta vegetação em imagens de drone usando OpenCV (HSV + morfologia).
