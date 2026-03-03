@@ -1,4 +1,4 @@
-# Protótipo de Monitoramento de Vegetação Próximo a Torres de Transmissão (Circuito Simples / Circuito Duplo)
+# Protótipo de Monitoramento de Vegetação Próximas a Torres de Transmissão (Circuito Simples / Circuito Duplo)
 
 Protótipo desenvolvido por Ítalo Molon (Estudante do 3º Semestre do Curso de Inteligência Artificial)
 
@@ -30,4 +30,4 @@ Relatório completo (PDF): https://github.com/italo-molon/prototipo-monitorament
 
 Contato:  
 LinkedIn: https://www.linkedin.com/in/italomolontech/  
-E-mail: italo.prog@gmail.com / italo.molon@gmail.com
+E-mail: italo.prog@gmail.com / italo.molon7@gmail.com
