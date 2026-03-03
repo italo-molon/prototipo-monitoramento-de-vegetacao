@@ -1,4 +1,4 @@
-# Protótipo de Monitoramento de Vegetação – ISA Energia Brasil
+# Protótipo de Monitoramento de Vegetação Próximo a Torres de Transmissão (Circuito Simples / Circuito Duplo)
 
 Protótipo desenvolvido por Ítalo Molon (candidato a estágio em IA/Visão Computacional)
 
